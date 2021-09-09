@@ -9,19 +9,27 @@ pip install sikufenci
 
 # prepare
 运行需要的依赖:
+
 torch>1.1.0
+
 boto3
-pytorch_pretrained_bert
+
+pytorch_pretrained_bert==0.6.1
+
 seqeval
+
 tqdm
+
 建议创建一个虚拟环境，以正常安装sikufenci。
 
 除上述依赖包外，如果要正常运行代码，还需要下载一个用于分词的pytorch_model.bin文件。
+
 该文件可以通过如下的百度云链接下载:
 链接：https://pan.baidu.com/s/1ePPlCpoZ4UTsUaQumMpZTQ 
 提取码：c9hb
 
 下载完成后，需要将pytorch_model.bin文件放到sikufenci安装目录的子文件夹的'train_fenci_sikuroberta_vocabtxt'文件夹中。
+
 安装目录就是您默认的安装此python工具包的位置。例如，在我的电脑中安装目录就是D:\ProgramData\Anaconda3\envs\pyqt5_py38\Lib\site-packages\sikufenci\train_fenci_sikuroberta_vocabtxt
 
 如果上述工作都已完成，就可以进入运行阶段。
@@ -48,8 +56,11 @@ eval_batch_size:模型一次性分词的序列数。
 
 # 数据实例
 您应该按照如下原则安排待分词语料的文件夹:
+
 1.单个句子长度不宜过长，建议单句长度在512以下。使用换行符"\n"来切分不同的句子。
+
 2.文件夹中的文件应当以txt为后缀名。
+
 3.应尽量确保分词文件中不包含在utf-8编码下无法呈现的字符。
 
 真实的数据样例:
