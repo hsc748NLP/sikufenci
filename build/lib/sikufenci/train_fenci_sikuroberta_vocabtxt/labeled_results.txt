@@ -1,0 +1,46 @@
+《	B	S
+易	E	S
+》	S	S
+曰	S	S
+「	S	S
+狐	S	S
+涉	S	S
+水	S	S
+，	S	S
+濡	S	S
+其	S	S
+尾	S	S
+」	S	S
+。	S	S
+
+本	B	B
+注	E	E
+曰	S	S
+：	S	S
+主	S	S
+西	B	B
+羌	E	E
+。	S	S
+
+十	S	B
+三	S	I
+年	S	E
+孺	B	B
+子	E	E
+見	S	S
+我	S	S
+濟	B	B
+北	E	E
+，	S	S
+穀	B	B
+城	I	I
+山	E	E
+下	S	S
+黃	B	B
+石	E	E
+即	S	S
+我	S	S
+矣	S	S
+。	S	S
+」	S	S
+

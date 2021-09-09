@@ -1,0 +1,12 @@
+include   sikufenci/data/test.txt
+include   sikufenci/final_result/test_result.txt
+include   sikufenci/outputdata/labeled_results.txt
+include   sikufenci/pretrain_models/sikuroberta_vocabtxt/bert_config.json
+include   sikufenci/pretrain_models/sikuroberta_vocabtxt/vocab.txt
+include   sikufenci/train_fenci_sikuroberta_vocabtxt/bert_config.json
+include   sikufenci/train_fenci_sikuroberta_vocabtxt/vocab.txt
+include   sikufenci/train_fenci_sikuroberta_vocabtxt/labeled_results.txt
+include   sikufenci/wordseg_data/valid.txt
+include   sikufenci/wordseg_data/dev.txt
+include   sikufenci/wordseg_data/train.txt
+include   sikufenci/wordseg_data/test.txt

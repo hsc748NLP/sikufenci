@@ -1,0 +1,16 @@
+torch>=1.1.0
+boto3
+pytorch_pretrained_bert==0.6.1
+requests
+tqdm
+seqeval>=0.0.5
+numpy
+
+[:python_version<"2.7"]
+argparse
+
+[:python_version<"3.4"]
+enum34
+
+[:python_version<"3.5"]
+typing
