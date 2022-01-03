@@ -26,9 +26,10 @@ tqdm
 
 该文件可以通过如下的百度云链接下载:
 
-链接：https://pan.baidu.com/s/1ePPlCpoZ4UTsUaQumMpZTQ 
+|链接                                       |提取码     |
+| :------------------------------------------ | :-------- |
+| https://pan.baidu.com/s/1ePPlCpoZ4UTsUaQumMpZTQ   | c9hb |
 
-提取码：c9hb
 
 国外用户可以通过google云盘下载微调后的模型:
 | Model                                       | Link      |
