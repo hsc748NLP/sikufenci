@@ -31,8 +31,9 @@ tqdm
 提取码：c9hb
 
 国外用户可以通过google云盘下载微调后的模型:
-
-链接：https://drive.google.com/drive/folders/1-gkE8XezLY_H6woVHfo49ZDsvljI8s4c?usp=sharing
+| Model                                       | Link      |
+| :------------------------------------------ | :-------- |
+| sikubert_vocabtxt   | https://drive.google.com/drive/folders/1uA7m54Cz7ZhNGxFM_DsQTpElb9Ns77R5?usp=sharing |
 
 
 下载完成后，需要将pytorch_model.bin文件放到sikufenci安装目录的子文件夹的'train_fenci_sikuroberta_vocabtxt'文件夹中。
