@@ -31,7 +31,7 @@ tqdm
 | https://pan.baidu.com/s/1ePPlCpoZ4UTsUaQumMpZTQ   | c9hb |
 
 
-国外用户可以通过google云盘下载微调后的模型:
+Foreign users can download the fine-tuned model through Google Drive:
 | Model                                       | Link      |
 | :------------------------------------------ | :-------- |
 | sikubert_vocabtxt(fine-tuned)   | https://drive.google.com/drive/folders/1uA7m54Cz7ZhNGxFM_DsQTpElb9Ns77R5?usp=sharing |
