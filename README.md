@@ -25,8 +25,15 @@ tqdm
 除上述依赖包外，如果要正常运行代码，还需要下载一个用于分词的pytorch_model.bin文件。
 
 该文件可以通过如下的百度云链接下载:
+
 链接：https://pan.baidu.com/s/1ePPlCpoZ4UTsUaQumMpZTQ 
+
 提取码：c9hb
+
+国外用户可以通过google云盘下载微调后的模型:
+
+链接：https://drive.google.com/drive/folders/1-gkE8XezLY_H6woVHfo49ZDsvljI8s4c?usp=sharing
+
 
 下载完成后，需要将pytorch_model.bin文件放到sikufenci安装目录的子文件夹的'train_fenci_sikuroberta_vocabtxt'文件夹中。
 
